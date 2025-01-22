@@ -1,3 +1,0 @@
-/home/quai/Develop/Cis-246-C-/Homeworks/Homework2/cmake-build-debug/CMakeFiles/Homework2.dir
-/home/quai/Develop/Cis-246-C-/Homeworks/Homework2/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/quai/Develop/Cis-246-C-/Homeworks/Homework2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
