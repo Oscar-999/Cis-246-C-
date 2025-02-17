@@ -7,17 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="864f81a4-f342-4bbc-a0e4-4ae738d6aa3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Homework3/Purchase.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Homework3/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework3/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Homework3/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-cd663e62c3a4e2a3d6d3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Homework3/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-7770fa7a5b515ff01722.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Homework3/cmake-build-debug/.cmake/api/v1/reply/index-2025-01-28T03-52-08-0848.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Homework3/cmake-build-debug/.cmake/api/v1/reply/target-Homework3-Debug-f42875700886bc441483.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Homework3/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework3/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Homework3/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework3/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Homework3/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework3/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Labs/Lab3/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/Lab3/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Labs/Lab302/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/Lab302/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework4/Product.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/Lab403/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/Lab403/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/Labs4/Lab0401.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/Labs4/Lab0403.cpp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +55,7 @@
       <updated>1738634270087</updated>
       <workItem from="1738634271147" duration="3000" />
       <workItem from="1738802044598" duration="2000" />
+      <workItem from="1738964105633" duration="2000" />
     </task>
     <servers />
   </component>
