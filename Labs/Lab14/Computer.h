@@ -5,12 +5,12 @@
 
 // STEP 1 - Complete the include statement for
 //			the header file of the base class.
-#include 
+#include "Electronics.h"
 
 // STEP 2 - Complete the class statement that
 //			indicates that the Computer class
 //			is derived from the Electronics class.
-class __________________ {
+class Computer : public Electronics {
 	private:
 		std::string OS;
 		

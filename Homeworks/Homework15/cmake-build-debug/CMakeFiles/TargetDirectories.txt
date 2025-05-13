@@ -1,0 +1,3 @@
+/Users/quai/Developer/Cis-246-C-/Homeworks/Homework15/cmake-build-debug/CMakeFiles/Homework15.dir
+/Users/quai/Developer/Cis-246-C-/Homeworks/Homework15/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/quai/Developer/Cis-246-C-/Homeworks/Homework15/cmake-build-debug/CMakeFiles/rebuild_cache.dir

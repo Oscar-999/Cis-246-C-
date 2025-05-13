@@ -1,0 +1,24 @@
+#include "Rowboat.h"
+#include <sstream>
+#include <iomanip>
+using namespace std;
+// Here we add the oars field
+Rowboat::Rowboat(float length, int oars) : Boat(length), oars(oars) {
+
+}
+
+void Rowboat::setOars(int oars) {
+    this->oars = oars;
+}
+
+int Rowboat::getOars() const {
+    return this->oars;
+}
+
+std::string Rowboat::toString() const {
+    std::stringstream ss;
+    ss << std::fixed << std::setprecision(2);
+    //Set widths for alignment
+    ss << "Rowboat" << setw(11)<< getLength() << setw(17) << getOars();
+    return ss.str();
+}

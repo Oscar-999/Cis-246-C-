@@ -1,14 +1,18 @@
-//
-// Created by Quai on 4/15/25.
-//
 
 #ifndef ROWBOAT_H
 #define ROWBOAT_H
 
+ #include "Boat.h"
+class Rowboat : public Boat {
+ private:
+   int oars;
 
-
-class Rowboat {
-
+   public:
+     Rowboat(float length, int oars);
+     void setOars(int oars);
+     int getOars() const;
+    void accelerate() override;
+     std::string toString() const ;
 };
 
 
